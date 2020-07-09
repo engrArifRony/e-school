@@ -1,0 +1,62 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    
+}
+header{
+    background-image: linear-gradient(#F0FFF0 , #F0FFF0);
+}
+.button {
+    border-radius: 20px;
+    font-weight: 400;
+}
+.container{
+    
+}
+.regular{
+    color: #6C6B6B;
+}
+.extra-bold{
+    font-weight: 900;
+    line-height: 60px;
+    font-size: 36px;
+}
+.bg-light_gray{
+    background-color:#f0faf4;
+    
+}
+.bg-light_gray:hover{
+    box-shadow: 0px 0px 2px 1px rgb(107, 86, 86);
+}
+.bg-light_gray:hover{
+    background-color: #FFFFFF;
+}
+.online-cours-icon{
+    width: 14px;
+    height: 14px;
+}
+.online-cours-icon img{
+    width: 100%;
+}
+.testimonial-img img {
+    width: 120px;
+    height: 120px;
+
+}
+footer{
+    background: #1f2124;
+}
+footer:hover{
+    background: #000;
+}
+.course-footer{
+    float: left;
+    text-align: center;
+    color: #6d6767;
+}
+.copy-right{
+   color: rgb(255, 255, 255);
+}
+.footerP{
+    font-size: 12px;
+    color: #dbcfcf;
+}
